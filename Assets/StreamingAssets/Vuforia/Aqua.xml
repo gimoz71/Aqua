@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <CylinderTarget name="Aqua-test-matte" sideLength="13.500000"/>
+    <CylinderTarget name="Aqua-test" sideLength="16.500000"/>
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="Aqua-test-matte" version="3.0" targetId="531f4e4999a24ed79e8218aba4e62d3f" sideLength="13.500000" topDiameter="7.000000" bottomDiameter="7.000000" sideImage="Aqua-test-matte.Body_scaled.jpg"/>
+        <CylinderTarget name="Aqua-test" version="3.0" targetId="5ead6bd6955f4e96bb88c07f1bed62f8" sideLength="16.500000" topDiameter="7.000000" bottomDiameter="7.000000" sideImage="Aqua-test.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
